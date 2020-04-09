@@ -989,6 +989,7 @@ hr {
 section.special, article.special {
   text-align: center; }
 
+
 header p {
   font-family: "Roboto Slab", serif;
   font-size: 1em;
@@ -2075,6 +2076,9 @@ button,
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
+  background-image:url("../../images/beachy2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
   border-bottom: solid 5px #f56a6a;
   padding: 6em 0 1em 0;
   position: relative; }
